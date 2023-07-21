@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-LDD_VERSION = 0676c10
+LDD_VERSION = 1cbb746
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
